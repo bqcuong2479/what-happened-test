@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:SE Asia Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTACH:CID:09b301d7df4d$f3630e30$
+ATTENDEE;CN=bqcuong2479@gmail.com;RSVP=TRUE:mailto:bqcuong2479@gmail.com
+ATTENDEE;CN=recruit@upsharework.com;RSVP=TRUE:mailto:recruit@upsharework.co
+	m
+ATTENDEE;CN=trihb@upsharework.com;RSVP=TRUE:mailto:trihb@upsharework.com
+ATTENDEE;CN=hanntn@upsharework.com;RSVP=TRUE:mailto:hanntn@upsharework.com
+CLASS:PUBLIC
+CREATED:20211122T030626Z
+DESCRIPTION:Dear Cuong Bui\,\n\nAs our discussion via telephone\, you are w
+	armly invited to join the interview for the job position ReactJS Fresher. 
+	The information of this interview appointment is as below:\n\nDate & Time:
+	 09.00PM\, Tuesday\, November 23\, 2021 \n\nInterview method: Online via S
+	kype               \n\nContact person: Hân Nguyễn (Phone: 0353908097 
+	– Skype: live:.cid.68cb5c6f2016bd12)\n\nWe look forward to meeting you. 
+	If this schedule does not work for you then please let us know your conven
+	ient time.\n\nRegards\,\n\nHuman Resources Department \n\n\n\n55-57 Bau Ca
+	t 4 St.\, Tan Binh Dist.\, Ho Chi Minh City\, Vietnam\n\nhttps://www.upsha
+	rework.com/ <https://www.upsharework.com/> \n\nPhone: +84 28 3811 7742 | F
+	ax: +84 28 3811 6980\n\n \n\n \n\n
+DTEND;TZID="SE Asia Standard Time":20211123T093000
+DTSTAMP:20211122T030626Z
+DTSTART;TZID="SE Asia Standard Time":20211123T090000
+LAST-MODIFIED:20211122T030626Z
+LOCATION:Online via Skype
+ORGANIZER;CN="Ngoc Han":mailto:hanntn@upsharework.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Appointment for Job Interview at SHAREWORK - Bui Quo
+	c Cuong
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000006030739C88DFD701000000000000000
+	0100000003A90C988F7EFDA4CAAB267C8CD1956EE
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Co
+	ntent-Type content="text/html\; charset=utf-8"><meta name=Generator conten
+	t="Microsoft Word 15 (filtered medium)"><!--[if !mso]><style>v\\:* {behavi
+	or:url(#default#VML)\;}\no\\:* {behavior:url(#default#VML)\;}\nw\\:* {beha
+	vior:url(#default#VML)\;}\n.shape {behavior:url(#default#VML)\;}\n</style>
+	<![endif]--><style><!--\n/* Font Definitions */\n@font-face\n	{font-family
+	:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face\n	{font-fa
+	mily:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 2 4\;}\n@font-face\n	{font-fami
+	ly:Cambria\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n/* Style Definitions */\np
+	.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0in\;\n	font-size:11.0
+	pt\;\n	font-family:"Calibri"\,sans-serif\;}\na:link\, span.MsoHyperlink\n	
+	{mso-style-priority:99\;\n	color:#0563C1\;\n	text-decoration:underline\;}\
+	nspan.EmailStyle18\n	{mso-style-type:personal-compose\;\n	font-family:"Cal
+	ibri"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-typ
+	e:export-only\;\n	font-size:10.0pt\;}\n@page WordSection1\n	{size:8.5in 11
+	.0in\;\n	margin:1.0in 1.0in 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordS
+	ection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="e
+	dit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:sha
+	pelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout
+	></xml><![endif]--></head><body lang=EN-US link="#0563C1" vlink="#954F72" 
+	style='word-wrap:break-word'><div class=WordSection1><p class=MsoNormal st
+	yle='mso-margin-top-alt:auto\;mso-margin-bottom-alt:auto'>Dear<b> Cuong Bu
+	i\,</b><o:p></o:p></p><p class=MsoNormal style='mso-margin-top-alt:auto\;m
+	so-margin-bottom-alt:auto'><span style='color:#26282A'>As our discussion v
+	ia </span>telephone<span style='color:#26282A'>\, you are warmly invited t
+	o</span> join the<span style='color:#26282A'> interview for the job positi
+	on</span><b> ReactJS Fresher. </b><span style='color:#26282A'>The informat
+	ion of this interview appointment is as below</span>:<o:p></o:p></p><p cla
+	ss=MsoNormal style='mso-margin-top-alt:auto\;mso-margin-bottom-alt:auto\;l
+	ine-height:115%'><b>Date &amp\; Time: 09.00PM\, Tuesday\, November 23\, 20
+	21 <o:p></o:p></b></p><p class=MsoNormal style='mso-margin-top-alt:auto\;m
+	so-margin-bottom-alt:auto\;line-height:115%'><b>Interview method: Online v
+	ia Skype&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nb
+	sp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</b><o:p></o:p></p><p class=MsoNorm
+	al style='mso-margin-top-alt:auto\;mso-margin-bottom-alt:auto\;line-height
+	:115%'><b>Contact person: Hân Nguyễn (Phone: 0353908097 – Skype: live
+	:.cid.68cb5c6f2016bd12)</b><o:p></o:p></p><p class=MsoNormal>We look forwa
+	rd to meeting you. If this schedule does not work for you then please let 
+	us know your convenient time.<o:p></o:p></p><p class=MsoNormal style='mso-
+	margin-top-alt:auto\;mso-margin-bottom-alt:auto\;line-height:11.2pt\;backg
+	round:white'><span style='color:black'>Regards\,</span><o:p></o:p></p><p c
+	lass=MsoNormal style='mso-margin-top-alt:auto\;mso-margin-bottom-alt:auto\
+	;line-height:11.2pt\;background:white'><span style='color:black'>Human Res
+	ources Department </span><o:p></o:p></p><p class=MsoNormal style='mso-marg
+	in-top-alt:auto\;mso-margin-bottom-alt:auto\;line-height:11.2pt\;backgroun
+	d:white'><span style='color:black'><img width=187 height=26 style='width:1
+	.9479in\;height:.2708in' id="gmail-m_1274135977382302018Picture_x0020_1" s
+	rc="cid:image003.png@01D7DF88.9C7182B0"></span><o:p></o:p></p><p class=Mso
+	Normal style='mso-margin-top-alt:auto\;mso-margin-bottom-alt:auto\;line-he
+	ight:11.2pt\;background:white'><span style='font-size:8.0pt\;font-family:"
+	Cambria"\,serif\;color:#595959'>55-57 Bau Cat 4 St.\, Tan Binh Dist.\, Ho 
+	Chi Minh City\, Vietnam</span><o:p></o:p></p><p class=MsoNormal style='mso
+	-margin-top-alt:auto\;mso-margin-bottom-alt:auto\;background:white'><span 
+	style='color:black'><a href="https://www.upsharework.com/" target="_blank"
+	><span style='font-size:8.0pt\;font-family:"Cambria"\,serif\;color:#5B9BD5
+	'>https://www.upsharework.com/</span></a></span><o:p></o:p></p><p class=Ms
+	oNormal style='mso-margin-top-alt:auto\;mso-margin-bottom-alt:auto\;line-h
+	eight:11.2pt\;background:white'><span style='font-size:8.0pt\;font-family:
+	"Cambria"\,serif\;color:#595959'>Phone:&nbsp\;<b>+84 28 3811 7742</b>&nbsp
+	\;| Fax:&nbsp\;<b>+84 28 3811 6980</b></span><o:p></o:p></p><p class=MsoNo
+	rmal><o:p>&nbsp\;</o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p></div>
+	</body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
